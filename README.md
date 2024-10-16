@@ -1,2 +1,2 @@
 # news-app
-this is an app project using react, JavaScript, css , html
+this is an "News app" project using react, <br>JavaScript, css , html
